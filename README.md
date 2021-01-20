@@ -1,9 +1,11 @@
 # PBOProject_PendataanKaryawanTetapSandbox
 Sistem pendataan karyawan tetap sandbox ini adalah sistem penginputan data karyawan berupa id,nama karyawan,jabatan,alamat,email,nomor telpon, dan jenis kelamin, yang nantinya akan masuk kedalam tabel gridview. sistem ini juga dapat mengedit atau mengupdate data yang sudah diinputkan. serta dapat menghapus data yang sudah diinputkan.
 
-Class Diagram
+Class Diagram 
 class diagram dengan file nama Class Diagram_Pendataankaryawan yang didalamnya terdapat 3 entitas yaitu karyawan,Datakaryawan, dan FXMLDocumentController. Pada entitas karyawan terdapat atribut id dengan tipe data integer. namakaryawan,jabatan,alamat,email,notlp,jeniskelamin dengan tipe data varchar. pada entitas FXMLDocumentController terdapat atribut Add_karyawan,Edit,Delete,UpdateTabe. serta pada entitas Datakaryawan terdapat atribut strat.
 
+ERD 
+ERD dengan file nama ERD data karyawan yang di dalamnya terdapat 1 erd yg berisi id, namakaryawan, jabatan, alamat, email, no telp, jenis kelqmain, dengan tipe data integer untuk id dan namakaryawan,jabatan,aamat, email no telp, jenis kelamin dengan tipe data varchar, id menggunakan atribut  primary key
 Nama Kelompok :
 1. Poppy Devi Lestari 1907051007
 2. Veni Melinda 1907051018
