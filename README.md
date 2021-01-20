@@ -8,6 +8,9 @@ Nama Kelompok :
 
 Pembagian tugas:
 Poppy Devi Lestari:
+-membuat class Datakaryawan Main
+-membuat class FXMLDokumen.fxml yang menghubungkan antara desain scene builder dengan kodingan di netbeans
+-membuat class FXMLDokumenController dan button add dan update di source codenya.
 
 Veni Melinda:
 -membuat class karyawan
