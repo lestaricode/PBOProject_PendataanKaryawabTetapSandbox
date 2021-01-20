@@ -1,5 +1,5 @@
 # PBOProject_PendataanKaryawanTetapSandbox
-
+Sistem pendataan karyawan tetap sandbox ini adalah sistem penginputan data karyawan berupa id,nama karyawan,jabatan,alamat,email,nomor telpon, dan jenis kelamin, yang nantinya akan masuk kedalam tabel gridview. sistem ini juga dapat mengedit atau mengupdate data yang sudah diinputkan. serta dapat menghapus data yang sudah diinputkan.
 
 Nama Kelompok :
 1. Poppy Devi Lestari 1907051007
