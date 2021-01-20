@@ -30,3 +30,6 @@ Veni Melinda:
 -membuat class diagram pendataan karyawan tetap sandbox
 
 Atma Putri Senjani:
+-membuat database
+-membuat erd
+-membuat koneksi 
